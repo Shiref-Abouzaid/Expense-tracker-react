@@ -1,5 +1,6 @@
 {
   "name": "expense-tracker-react",
+  "homepage": "https://shiref-abouzaid.github.io/expense-tracker-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
